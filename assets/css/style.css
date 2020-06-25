@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+#navbarNav a {
+    color: #ffffff;
+}
+
+.card-text {
+    color: #28a745;
+    font-weight: 500;
+}
+
+.bg-success {
+    background-color: #28a745;
+    color: white;
+    vertical-align: middle;
+}
+
+footer {
+    color: #707070;
+}
+
+
